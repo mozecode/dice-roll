@@ -1,0 +1,23 @@
+{
+  "name": "dice-roll",
+  "version": "1.0.0",
+  "description": "",
+  "bin":{
+    "diceroll":"./bin/diceroll"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mozecode/dice-roll.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mozecode/dice-roll/issues"
+  },
+  "homepage": "https://github.com/mozecode/dice-roll#readme"
+}
